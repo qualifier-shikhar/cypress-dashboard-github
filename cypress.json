@@ -1,6 +1,9 @@
 {
-    "ignoreTestFiles": [
-        "**/1-getting-started/*.js"
-    ]
-
+  "ignoreTestFiles": [
+    "**/1-getting-started/*.js"
+  ],
+  "env": {
+    "username": "admin"
+  },
+  "projectId": "bcajgo"
 }
